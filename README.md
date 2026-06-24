@@ -1,4 +1,4 @@
-# Splitr — Settle Smarter 💸
+# Splitr - Settle Smarter 💸
 
 Splitr is a full-stack AI-powered expense splitting web app. Add shared expenses, split them equally or by custom amounts, track who owes who, and settle up — all in real time. It also sends automated payment reminders by email and generates monthly AI spending insights.
 
